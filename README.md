@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there
+
+I'm Emmeline Vouriot, living in France and currently studying for an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
 <!--
 **emmvou/emmvou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
