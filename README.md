@@ -11,7 +11,7 @@ I'm Emmeline Vouriot, living in France and currently studying for an engineering
 
 # Favorite tools
 
-<img alt="python" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img alt="c#" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img alt="JetBrains" height=80 src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg"> <img alt="GitKraken" height=80 src="https://coollogo.net/wp-content/uploads/2021/02/GitKraken-logo.svg" /> <img alt="Adobe Premiere Pro" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /> <img alt="GIMP" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+<img alt="c#" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img alt="python" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img alt="JetBrains" height=80 src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg"> <img alt="GitKraken" height=80 src="https://coollogo.net/wp-content/uploads/2021/02/GitKraken-logo.svg" /> <img alt="Adobe Premiere Pro" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /> <img alt="GIMP" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 
 
 and eager to learn more!
