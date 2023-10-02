@@ -3,7 +3,7 @@
 
 
 
-I'm Emmeline Vouriot, living in France and currently studying for an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
+I'm Charlie Vouriot (formally known as Emmeline Vouriot), living in France and currently studying for an engineering degree in Computer Science at the [Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmvou&count_private=true&show_icons=true)
 
